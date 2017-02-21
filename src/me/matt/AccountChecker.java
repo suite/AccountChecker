@@ -7,6 +7,7 @@ public class AccountChecker {
 
     public static void main(String [ ] args) {
 
+        //there should be a better checking system right here.
         if(args.length<2) {
             System.out.println("3");
             return;
